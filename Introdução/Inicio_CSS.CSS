@@ -1,3 +1,10 @@
+
+body {
+    background-color: rgb(209, 199, 199);
+}
+
+
+
 h1{
     color: red;
     font-family: Arial, Helvetica, sans-serif;
@@ -25,7 +32,11 @@ h3{
 p{
     color:#0000ff;
     font-size: 28px;
-    text-align: justify;
+    text-align: left;
     text-indent: 28px;
     font-variant: small-caps;
+}
+
+a {
+    text-decoration: none;
 }
