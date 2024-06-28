@@ -14,7 +14,7 @@ p {
 h1 {
     background-color: rgb(170, 89, 89);
     padding: 16px;
-
+    text-align: center;
 }
 
 h2{
@@ -32,7 +32,7 @@ h2{
 }
 
 .margin{
-    margin: 25px;
+    margin:auto;
 }
 
 .border{
